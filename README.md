@@ -14,8 +14,8 @@ my contets:
 
  content | link
 ------------ | -------------
-markdown | https://ayaqabbani.github.io/02b.md/markdown
-growthmindset | https://ayaqabbani.github.io/02b.md/growthmindset
-GitHub   | https://ayaqabbani.github.io/02b.md/GitHub
-Git   |  https://ayaqabbani.github.io/02b.md/Git
-ACP   |  https://ayaqabbani.github.io/02b.md/ACP
+markdown | [markdown link](https://ayaqabbani.github.io/02b.md/markdown_)
+growthmindset | [growthmindset link](https://ayaqabbani.github.io/02b.md/growthmindset)
+GitHub   | [GitHub link](https://ayaqabbani.github.io/02b.md/GitHub)
+Git   |  [Git link](https://ayaqabbani.github.io/02b.md/Git)
+ACP   |  [ACP link](https://ayaqabbani.github.io/02b.md/ACP)
